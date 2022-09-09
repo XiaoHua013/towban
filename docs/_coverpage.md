@@ -4,5 +4,5 @@
 
 > 二班的校园生活记录，一打开即是回忆.
 
-[Gitee](https://gitee.com/handy-git/rice-doc)
+[开篇](#二班介绍)
 [快速开始](#二班介绍)
