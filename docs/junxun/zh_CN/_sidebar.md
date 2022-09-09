@@ -1,10 +1,3 @@
-# 云朵MC
-* [首页](CloudMC/zh_CN/README)
-* [首次进服](CloudMC/zh_CN/login)
-* [**命令**](CloudMC/zh_CN/command)
-* [**功能**](CloudMC/zh_CN/function)
-* [**有个栗子🌰**](CloudMC/zh_CN/card)
-* [**功能帮助**](CloudMC/zh_CN/help)
-* [**更新记录**](CloudMC/zh_CN/log)
-* [**视频**](CloudMC/zh_CN/video)
-* [**常见问题**](CloudMC/zh_CN/problem)
+# 我们的军训生活
+* [教官说的话](CloudMC/zh_CN/README)
+* [我们的照片](CloudMC/zh_CN/login)
