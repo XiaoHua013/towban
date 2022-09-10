@@ -54,6 +54,14 @@
                     '<br/>'
                 ].join('');
 
+                var footer = [
+                    '<hr/>',
+                    '<footer>',
+                    '<span><a href="https://beian.miit.gov.cn" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">biubiubiu</a><br/>&copy; 学习使用</span>',
+                    '<span><a href="https://docsify.js.org" target="_blank">Powered by docsify</a></span>',
+                    '</footer>'
+                ].join('');
+
                 hook.afterEach(function (html) {
                     return ad + html + footer;
                 });
